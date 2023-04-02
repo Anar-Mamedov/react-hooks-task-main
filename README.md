@@ -1,7 +1,5 @@
 # View
 
-![photo error question](./question.png)
-
 ## Hooks
 
 - useEffect
